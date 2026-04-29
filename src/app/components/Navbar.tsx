@@ -23,6 +23,7 @@ export const NavBar = () => {
           </Link>
         </li>
       ))}
+        <button className="bg-blue-500 hover:bg-blue-400 text-white-500 dark:text-sky-400/100 font-bold py-2 px-4 border-b-4 justify-evenlyborder-blue-700 hover:border-blue-500 rounded">Sign Up</button>
     </ul>
   </div>
       </div>
